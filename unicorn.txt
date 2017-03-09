@@ -1,0 +1,3 @@
+<cfmail to='ipockzhengh16@ecu.edu' from='ntdg@ecu.edu' subject="testing insertGroups">
+	<cfdump var="#local.insertGroups#">
+</cfmail>
